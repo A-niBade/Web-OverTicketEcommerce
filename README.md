@@ -5,13 +5,13 @@ Web construida con Django RestFramework + Vue
 Para correr la aplicacion sin errores debes:
 
 ### Crear un ambiente virtual
-Para instalarlo:
+Para instalarlo: <br>
     - pip install virtualenv
 
-Para crearlo: 
+Para crearlo: <br>
     - virtualenv [nombre] 
 
-Para activarlo:
+Para activarlo: <br>
     - ./nombre/Scripts/activate
 
 ### Instalar Django + librerias (Dentro del ambiente virtual)
